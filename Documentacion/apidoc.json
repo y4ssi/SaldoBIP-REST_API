@@ -1,0 +1,7 @@
+{
+  "name": "API SaldoBIP",
+  "version": "1.0",
+  "description": "Api REST para consultar el saldo de la tarjeta BIP",
+  "title": "Documentacino API SaldoBIP",
+  "url" : "http://saldobip.yasserisa.com/v1"
+}
