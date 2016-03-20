@@ -35,6 +35,8 @@ Finalmente, se devuelve un **JSON** con la fecha y el saldo de la tarjeta.
 
 ## Documentación API
 
+La documentación de la API se encuentra disponible en: http://saldobip.yasserisa.com/
+
 En la carpeta **/Documentacion/apidoc** se encuentran todas las fuentes HTML de la documentación de la API, esta documentación es generada automáticamente con la herramienta **apidoc**. En la carpeta **/Documentacion** se encuentran los archivos de configuración para generar la documentación en HTML. 
 
 ### apidoc
@@ -73,6 +75,11 @@ http://saldobip-apirest.herokuapp.com/
 
 ### Ejemplo de consulta de saldo
 
+ ```
+ curl http://saldobip.yasserisa.com/v1/tarjetas/54545454/saldo
+ ```
+ o
+ 
 ```
 curl http://saldobip-apirest.herokuapp.com/v1/tarjetas/54545454/saldo
 ```
