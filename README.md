@@ -76,7 +76,7 @@ http://saldobip-apirest.herokuapp.com/
 ### Ejemplo de consulta de saldo
 
  ```
- curl http://saldobip.yasserisa.com/v1/tarjetas/54545454/saldo
+ curl http://saldobip.yasser.pro/v1/tarjetas/54545454/saldo
  ```
  o
  
